@@ -15,4 +15,5 @@ accelerate
 triton
 xformers
 #https://github.com/apolinario/xformers/releases/download/0.0.3/xformers-0.0.14.dev0-cp38-cp38-linux_x86_64.whl
-https://github.com/camenduru/stable-diffusion-webui-colab/releases/download/0.0.15/xformers-0.0.15.dev0+4c06c79.d20221205-cp38-cp38-linux_x86_64.whl
+https://github.com/camenduru/stable-diffusion-webui-colab/releases/download/0.0.16/xformers-0.0.16+bc08bbc.d20230123-cp38-cp38-linux_x86_64.whl
+https://github.com/camenduru/stable-diffusion-webui-colab/releases/download/0.0.16/xformers-0.0.16+814314d.d20230119.A10G-cp310-cp310-linux_x86_64.whl
